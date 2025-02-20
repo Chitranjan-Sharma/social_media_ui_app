@@ -2,21 +2,14 @@
 
 A new Flutter project for Social Media UI Practice.
 
-<p>
+<div>
 
-# Home Screen
 
 <img src="screenshots/ss1.png" >
 
-# Profile Screen
-
 <img src="screenshots/ss2.png" >
-
-# Post Liked Dialog
-
+<br/>
 <img src="screenshots/ss3.png" >
 
-# Notification Screen
-
 <img src="screenshots/ss4.png" >
-</p>
+</div>
